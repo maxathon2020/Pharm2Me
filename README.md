@@ -3,7 +3,9 @@
 - Must Read document : https://github.com/maxonrow/maxathon
 - Project link : https://platform-hackathon.maxonrow.com/#/projects/5f5a0ce0017788001b46b517
 - Team members : 
-1. Lythia Im
-2. Shivam Srivastava
-3. Fernando Castillo
+  1. Lythia Im
+  2. Shivam Srivastava
+  3. Fernando Castillo
+  4. Jan Sopata
+
 
